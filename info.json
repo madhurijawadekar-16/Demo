@@ -1,0 +1,11 @@
+[
+	{
+		"version": "0.5.32",
+		"releaseTimestamp": 1667823922,
+		"size": 58.2,
+		"changelog": [
+			"validity extended till 31st Jan 2023",
+			"Improved User Login Functionality"
+		]
+	}
+]
